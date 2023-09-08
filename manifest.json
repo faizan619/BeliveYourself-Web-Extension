@@ -1,0 +1,12 @@
+{
+    "name":"Belive yourself",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "description":"Assalmualikum to all. Myself faizan from India. I Have created this Web Extension of getting motivated quotes . soon we are deciding to put audio for the user.",
+    "browser_action":{
+        "default_popup":"Components/index.html",
+        "default_icon":"Components/main.png"
+    },
+    "permissions":["activeTab"],
+    "icons":{"128":"Components/main.png"}
+}
